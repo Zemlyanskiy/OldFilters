@@ -1,0 +1,63 @@
+C:\Users\IOann\Documents\Visual Studio 2012\Projects\Filters\Filters\bin\Debug\Filters.exe.config
+C:\Users\IOann\Documents\Visual Studio 2012\Projects\Filters\Filters\bin\Debug\Filters.exe
+C:\Users\IOann\Documents\Visual Studio 2012\Projects\Filters\Filters\bin\Debug\Filters.pdb
+C:\Users\IOann\Documents\Visual Studio 2012\Projects\Filters\Filters\obj\Debug\Filters.Form1.resources
+C:\Users\IOann\Documents\Visual Studio 2012\Projects\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+C:\Users\IOann\Documents\Visual Studio 2012\Projects\Filters\Filters\obj\Debug\Filter.csproj.GenerateResource.Cache
+C:\Users\IOann\Documents\Visual Studio 2012\Projects\Filters\Filters\obj\Debug\Filters.exe
+C:\Users\IOann\Documents\Visual Studio 2012\Projects\Filters\Filters\obj\Debug\Filters.pdb
+C:\Users\IOann\Documents\Visual Studio 2012\Projects\Filters\Filters\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+B:\Documents and Labs\Labs\filterskg\Filters\Filters\bin\Debug\Filters.exe.config
+B:\Documents and Labs\Labs\filterskg\Filters\Filters\obj\Debug\Filters.exe
+B:\Documents and Labs\Labs\filterskg\Filters\Filters\obj\Debug\Filters.pdb
+B:\Documents and Labs\Labs\filterskg\Filters\Filters\bin\Debug\Filters.exe
+B:\Documents and Labs\Labs\filterskg\Filters\Filters\bin\Debug\Filters.pdb
+B:\Documents and Labs\Labs\filterskg\Filters\Filters\obj\Debug\Filters.Form1.resources
+B:\Documents and Labs\Labs\filterskg\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+B:\Documents and Labs\Labs\filterskg\Filters\Filters\obj\Debug\Filter.csproj.GenerateResource.Cache
+B:\Documents and Labs\Labs\filterskg\Filters\Filters\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+C:\filterskg\Filters\Filters\bin\Debug\Filters.exe.config
+C:\filterskg\Filters\Filters\obj\Debug\Filters.exe
+C:\filterskg\Filters\Filters\obj\Debug\Filters.pdb
+C:\filterskg\Filters\Filters\bin\Debug\Filters.exe
+C:\filterskg\Filters\Filters\bin\Debug\Filters.pdb
+C:\filterskg\Filters\Filters\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+C:\filterskg\Filters\Filters\obj\Debug\Filters.Form1.resources
+C:\filterskg\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+C:\filterskg\Filters\Filters\obj\Debug\Filter.csproj.GenerateResource.Cache
+D:\filterskg\Filters\Filters\bin\Debug\Filters.exe.config
+D:\filterskg\Filters\Filters\obj\Debug\Filters.exe
+D:\filterskg\Filters\Filters\obj\Debug\Filters.pdb
+D:\filterskg\Filters\Filters\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+D:\filterskg\Filters\Filters\obj\Debug\Filters.Form1.resources
+D:\filterskg\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+D:\filterskg\Filters\Filters\obj\Debug\Filter.csproj.GenerateResource.Cache
+D:\filterskg\Filters\Filters\bin\Debug\Filters.exe
+D:\filterskg\Filters\Filters\bin\Debug\Filters.pdb
+E:\filterskg\Filters\Filters\bin\Debug\Filters.exe.config
+E:\filterskg\Filters\Filters\obj\Debug\Filters.exe
+E:\filterskg\Filters\Filters\obj\Debug\Filters.pdb
+E:\filterskg\Filters\Filters\bin\Debug\Filters.exe
+E:\filterskg\Filters\Filters\bin\Debug\Filters.pdb
+E:\filterskg\Filters\Filters\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+E:\filterskg\Filters\Filters\obj\Debug\Filters.Form1.resources
+E:\filterskg\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+E:\filterskg\Filters\Filters\obj\Debug\Filter.csproj.GenerateResource.Cache
+J:\filterskg\Filters\Filters\bin\Debug\Filters.exe.config
+J:\filterskg\Filters\Filters\obj\Debug\Filters.exe
+J:\filterskg\Filters\Filters\obj\Debug\Filters.pdb
+J:\filterskg\Filters\Filters\bin\Debug\Filters.exe
+J:\filterskg\Filters\Filters\bin\Debug\Filters.pdb
+J:\filterskg\Filters\Filters\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+J:\filterskg\Filters\Filters\obj\Debug\Filters.Form1.resources
+J:\filterskg\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+J:\filterskg\Filters\Filters\obj\Debug\Filter.csproj.GenerateResource.Cache
+F:\filterskg\Filters\Filters\bin\Debug\Filters.exe.config
+F:\filterskg\Filters\Filters\obj\Debug\Filters.exe
+F:\filterskg\Filters\Filters\obj\Debug\Filters.pdb
+F:\filterskg\Filters\Filters\bin\Debug\Filters.exe
+F:\filterskg\Filters\Filters\bin\Debug\Filters.pdb
+F:\filterskg\Filters\Filters\obj\Debug\Filter.csprojResolveAssemblyReference.cache
+F:\filterskg\Filters\Filters\obj\Debug\Filters.Form1.resources
+F:\filterskg\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+F:\filterskg\Filters\Filters\obj\Debug\Filter.csproj.GenerateResource.Cache
